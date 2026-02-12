@@ -11,8 +11,10 @@ const orbitron = Orbitron({ subsets: ['latin'], weight: ['400', '500', '600', '7
 export const metadata: Metadata = {
   title: 'Scrim List Generator',
   description: 'Create professional esports scrim team lists and generate animated announcements',
+  icons: {
+    icon: '/logo.png',
+  },
 }
-
 export const viewport: Viewport = {
   themeColor: '#1a0a2e',
 }
