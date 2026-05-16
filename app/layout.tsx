@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'Scrim List Generator',
   description: 'Create professional esports scrim team lists and generate animated announcements',
   icons: {
-    icon: '/logo.png',
+    icon: '/icon.webp',
   },
 }
 export const viewport: Viewport = {
